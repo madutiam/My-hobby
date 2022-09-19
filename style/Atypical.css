@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, black, white, black);
+    color: rgb(0, 0, 0);
+}
+
+div{
+    font-size: large;
+}
+
+.titulo{
+    font: 30px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
+ 

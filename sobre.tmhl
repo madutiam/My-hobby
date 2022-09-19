@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre</title>
+    <link rel="stylesheet" href="style/sobre.css">
+
+</head>
+<body>
+    <div class="barra ">
+        <span><a href="index.html">Voltar</a></span>    
+        <span ><a href="Friends.html">Friends</a></span>
+        <span ><a href="Dickinson.html">Dickinson</a></N></span>
+        <span ><a href="Brooklyn99.html">Brooklyn nine-nine</a></span>
+        <span ><a href="Atypical">Atypical</a></span>
+        <hr>
+   </div>
+   <br>
+   <h1>Clique para ver o Desenvolvedor</h1>
+   <a href="https://github.com/madutiam"><img class="perfil" src="imagens/perfil.jpg" alt="perfil do git hub"></a>
+   
+
+
+
+</body>
+</html>

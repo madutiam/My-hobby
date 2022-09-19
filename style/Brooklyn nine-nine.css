@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, #fcf45d);  
+    color: #f8f9fa;  
+}
+     
+
+div{
+    font-size: large;
+}
+
+.titulo{
+    font: 30px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
+ 
