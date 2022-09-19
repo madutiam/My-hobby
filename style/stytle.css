@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(218, 128, 253);
+    background-color: rgb(217, 224, 224);
     border: solid rgb(245, 241, 241);
     max-width: 100%;
 
@@ -22,7 +22,7 @@ h3{
 }
 
 span{
-    color: rgb(223, 144, 247);
+    color: white;
     text-align: center;
     font-family:cursive;
     position: relative;
