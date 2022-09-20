@@ -1,9 +1,8 @@
 body{
     text-align: center;
-    background-color:#d1faf2 ;
+    background-color:#d5f1fc ;
     color: rgb(0, 0, 0);
-    margin-right: 5%;
-    margin-left: 5%;
+   
 }
 
 div{
@@ -20,9 +19,12 @@ p{
 
 img {
     display: inline-block;
-    width: 100%;
     height: auto;
-    width: 750px; 
+    height: 600px;
+    width: 600px; 
+    border: 1px solid rgba(255, 255, 255, 0);
+    border-radius: 50%; /* Torna imagem em circular*/
+    object-fit: cover;
 }
  
  

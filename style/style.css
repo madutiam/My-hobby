@@ -1,0 +1,93 @@
+body{
+    background-color: #1a1b1b;
+    max-width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+a {
+    color: white;
+}
+
+.titulo{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+}
+
+h3{
+    text-align: center;
+    color: aliceblue;
+}
+
+h4{
+    display: block;
+    margin: 0;
+    padding: 40px 0;
+}
+
+p {
+    color: white;
+    font-family:cursive;
+    position: relative;
+}
+
+/* #Friends{
+    position: relative;
+    left: 100px;
+
+}
+
+
+#Dickinson{
+    position: relative;
+    left:  340px;
+
+} */
+
+#N{
+    position: relative;
+    left: 570px;
+}
+
+/* #Brooklyn nine-nine{
+    position: relative;
+    left: 840px;
+    
+}
+
+#Atypical{
+    position: relative;
+    left: 250px;
+    top: 9px;
+    border: solid rgb(255, 255, 255) 5px;
+} */
+
+.sobre{
+    text-align: center;
+}
+
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    width: 350px; 
+    transition: .1s;
+}
+
+.imagens{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+img:hover{
+    width: 340px;
+}
+ 
